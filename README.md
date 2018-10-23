@@ -13,10 +13,10 @@ A set of applications assigned during the statistics course
 ## Application1
 Run your first VS WinForms application both on C# and VB.net. Discuss possible differences
 
-##Application2
+## Application2
 Take a CSV file and read all lines.
 Split each line by using the string split() method
 Load the data as properties of suitable objects in a list of objects (example object student)
 
-##Application3
+## Application3
 Run a set of bivariate frequency distributions (e.g. age-weight, weight-height etc.) and draw them on a chart.
