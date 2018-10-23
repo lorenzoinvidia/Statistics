@@ -11,7 +11,8 @@ A set of applications assigned during the statistics course
 3. Build and Run
 
 ## Application1
-Run your first VS WinForms application both on C# and VB.net. Discuss possible differences
+Run your first VS WinForms application both on C# and VB.net. 
+Discuss possible differences
 
 ## Application2
 Take a CSV file and read all lines.
