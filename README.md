@@ -16,7 +16,7 @@ Discuss possible differences
 
 ## Application2
 Take a CSV file and read all lines.
-Split each line by using the string split() method
+Split each line by using the string split() method.
 Load the data as properties of suitable objects in a list of objects (example object student)
 
 ## Application3
