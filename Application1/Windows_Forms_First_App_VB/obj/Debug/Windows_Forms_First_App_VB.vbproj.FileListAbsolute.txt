@@ -1,0 +1,11 @@
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\bin\Debug\Windows_Forms_First_App_VB.exe.config
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\bin\Debug\Windows_Forms_First_App_VB.exe
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\bin\Debug\Windows_Forms_First_App_VB.pdb
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\bin\Debug\Windows_Forms_First_App_VB.xml
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.vbprojAssemblyReference.cache
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.Resources.resources
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.vbproj.GenerateResource.cache
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.vbproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.exe
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.xml
+C:\Users\Lorenzo\Documents\GitHub\Statistics\Application1\Windows_Forms_First_App_VB\obj\Debug\Windows_Forms_First_App_VB.pdb
